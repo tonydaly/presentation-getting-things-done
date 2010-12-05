@@ -1,1 +1,7 @@
-{ "name": "Getting Things Done: with Things", "sections": [ {"section":"intro"} ]}
+{ "name": "Getting Things Done: with Things", 
+	"sections": [ 
+		{"section":"intro"},
+		{"section":"organisation"},
+		{"section":"prioritisation"},
+		{"section":"things"}
+	]}
