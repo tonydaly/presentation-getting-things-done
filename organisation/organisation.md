@@ -21,7 +21,9 @@
 
 # Perpetual Busyness #
 
-* Focus on short term tasks
+* Focus on short term
+* Don't see tasks in larger picture
+* Increased mistakes
 * Kills creativity - our greatest asset
 
 !SLIDE bullets incremental
@@ -44,4 +46,3 @@
 * How do you decide what's important?
 * How do you decide which tasks will get us closer to our goals?
 * How do you decide which tasks to ignore?!
-

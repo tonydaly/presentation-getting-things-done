@@ -2,6 +2,6 @@
 	"sections": [ 
 		{"section":"intro"},
 		{"section":"organisation"},
-		{"section":"prioritisation"},
-		{"section":"things"}
-	]}
+		{"section":"prioritisation"}
+	]
+}
